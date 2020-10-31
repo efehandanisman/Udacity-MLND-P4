@@ -15,7 +15,7 @@ The project submission includes documents outlined below:
 * ProjectReport.pdf
 * proposal.pdf
 * README.md
-* test_images /* Folders to test images
+* Six jpg images to test the model
 * dog_app.ipynb
 
 Project Outline: 
