@@ -12,11 +12,11 @@ https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
 
 The project submission includes documents outlined below:
 
-ProjectReport.pdf
-proposal.pdf
-README.md
-test_images /* Folders to test images
-dog_app.ipynb
+* ProjectReport.pdf
+* proposal.pdf
+* README.md
+* test_images /* Folders to test images
+* dog_app.ipynb
 
 Project Outline: 
 
